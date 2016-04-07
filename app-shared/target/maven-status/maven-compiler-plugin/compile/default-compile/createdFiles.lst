@@ -1,0 +1,16 @@
+dijalmasilva/dac/shared/interfaces/UserService.class
+dijalmasilva/dac/shared/entidades/teste.class
+dijalmasilva/dac/shared/interfaces/DoodService.class
+dijalmasilva/dac/shared/entidades/Administrador.class
+dijalmasilva/dac/shared/enums/TypeSexo.class
+dijalmasilva/dac/shared/interfaces/ConviteService.class
+dijalmasilva/dac/shared/entidades/ThreadEmail.class
+dijalmasilva/dac/shared/entidades/Professor.class
+dijalmasilva/dac/shared/enums/ContaStatus.class
+dijalmasilva/dac/shared/entidades/ThreadEmail$1.class
+dijalmasilva/dac/shared/entidades/Convite.class
+dijalmasilva/dac/shared/entidades/Usuario.class
+dijalmasilva/dac/shared/enums/TypeUser.class
+dijalmasilva/dac/shared/entidades/LocalDateConvert.class
+dijalmasilva/dac/shared/entidades/Aluno.class
+dijalmasilva/dac/shared/entidades/Dood.class
